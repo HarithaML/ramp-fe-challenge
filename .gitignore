@@ -1,0 +1,36 @@
+# Yarn dependencies
+node_modules/
+.yarn/
+yarn.lock
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Compiled output
+dist/
+build/
+
+# Temporary files
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Editor specific files
+*.swp
+*.swo
+*.sublime-*
+
+# Cache and generated files
+.cache/
+*.pid
+*.seed
+
